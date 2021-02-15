@@ -2,7 +2,7 @@
 //  jankenApp.swift
 //  janken
 //
-//  Created by 世家 劉 on 2021/02/07.
+//  Created by javen on 2021/02/07.
 //
 
 import SwiftUI
